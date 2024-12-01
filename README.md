@@ -22,6 +22,7 @@ Ontology resources that are powered by `ontobot-change-agent`:
  - [obophenotype/cell-ontology](https://github.com/obophenotype/cell-ontology)
  - [obophenotype/uberon](https://github.com/obophenotype/uberon)
  - [pato-ontology/pato](https://github.com/pato-ontology/pato)
+ - [yshwetar/ERG](https://github.com/yshwetar/ERG)
 
 <!-- IMPLEMENTERS_END -->
 
